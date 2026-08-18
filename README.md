@@ -3,7 +3,7 @@ Interactive Power BI Business Analytics dashboard for Lift Sales, Payments, Inst
 
 ## 📊 Project Overview
 
-**Lift Sales & Business Performance Analytics** is an interactive Power BI dashboard developed to analyze the end-to-end performance of a lift/elevator business.
+** Lift Sales & Business Performance Analytics** is an interactive Power BI dashboard developed to analyze the end-to-end performance of a lift/elevator business.
 
 The dashboard provides insights into:
 
