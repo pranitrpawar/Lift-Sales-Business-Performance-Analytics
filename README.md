@@ -227,4 +227,4 @@ This Power BI solution provides a centralized view of **sales, payments, install
 
 ## 👨‍💻 Skills Demonstrated
 
-**Power BI • DAX • Power Query • Data Cleaning • Data Modeling • KPI Development • Data Visualization • Business Analytics**
+** Power BI • DAX • Power Query • Data Cleaning • Data Modeling • KPI Development • Data Visualization • Business Analytics • Excel • SQL**
